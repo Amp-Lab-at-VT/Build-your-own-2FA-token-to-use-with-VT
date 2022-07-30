@@ -1,4 +1,3 @@
-
 ---
 layout: project_template
 title: Build your own 2FA token to use with VT
