@@ -4,7 +4,7 @@ title: Build your own 2FA token to use with VT
 description: This project will be using the open source U2F Zero project that allows any to make a personal and secure 2 factor authentication token.
 date: 2000-01-05 09:00:00
 hero_image: /web/img/Build-your-own-2FA-token-to-use-with-VT/Hero.png
-image: /web/img/Build-your-own-2FA-token-to-use-with-VT/Hero.png
+# image /web/img/Build-your-own-2FA-token-to-use-with-VT/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
