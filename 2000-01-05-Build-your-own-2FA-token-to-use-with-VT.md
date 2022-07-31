@@ -19,7 +19,7 @@ show_sidebar: false
 Conor Patrick
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Build-your-own-2FA-token-to-use-with-VT"" >Build-your-own-2FA-token-to-use-with-VT</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Build-your-own-2FA-token-to-use-with-VT" >Build-your-own-2FA-token-to-use-with-VT</a>
 
 ## Photo
 
